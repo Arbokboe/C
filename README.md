@@ -1,1 +1,1 @@
-![image](hq720.jpg)
+![image](images/static.jpg)
