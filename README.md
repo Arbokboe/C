@@ -1,1 +1,1 @@
-![image](images/static.png)
+![image](Images/static.png)
