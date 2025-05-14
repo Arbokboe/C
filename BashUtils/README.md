@@ -1,4 +1,4 @@
-![image](Images/cat.jpg)
+![image](images/cat.jpg)
 
 CAT, GREP
 
